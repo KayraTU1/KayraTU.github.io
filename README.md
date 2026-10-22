@@ -1,2 +1,2 @@
 # KayraTU.github.io
-This is a cloud storga 
+This is a cloud storage sys 
